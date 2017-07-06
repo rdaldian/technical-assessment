@@ -1,0 +1,1 @@
+Here, we are asked to sort data which includes name and age of 7 billion people with only 1 GB of computer RAM. Also, we can only use the internal library. The task is to sort the age first and then the name. TimSort Algorithm was used for this task.
