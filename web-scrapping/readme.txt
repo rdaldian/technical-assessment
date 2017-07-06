@@ -1,0 +1,1 @@
+The idea here is how to extract the top 10 most popular news from a big Indonesian News portal. The scraped website url is: http://www.kompas.com/
