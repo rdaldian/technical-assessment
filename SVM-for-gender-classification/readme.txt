@@ -1,0 +1,1 @@
+In this task, I want to employ SVM to classify gender based on the raw data from twitter. First, I need to extract the data using NLP technique in order to get the features as the input of the machine learning. Enjoy!
